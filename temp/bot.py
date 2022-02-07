@@ -14,4 +14,4 @@ async def hello(ctx):
 
 client.add_cog(music(client))
 
-client.run("OTM3Mjc3NzY1MDk3NTA0ODE4.YfZZ8A.IgZ34jJzv4AOYHZxzbcrlIFaAEc")
+client.run("Token here")
